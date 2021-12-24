@@ -1,6 +1,6 @@
 import { useEffect,useState } from "react";
 import axios from "axios";
-import { Routes, Route ,Link,useParams, Outlet} from "react-router-dom";
+import { Routes, Route ,Link,useParams, Outlet,useNavigate} from "react-router-dom";
 import "./blog.css";
 const Blogs=()=>{
     const [blogs,setBlogs]=useState([]);
