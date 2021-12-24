@@ -1,6 +1,6 @@
 # The backend of this application is uploaded at  [Github](https://github.com/arshdeep76277/Guide)
 
-# [Screenshots](https://github.com/arshdeep76277/Guide/src/Ss)
+# [Screenshots](https://github.com/arshdeep76277/Guide-frontend/tree/master/src/Ss)
 
 # Getting Started with Create React App
 
