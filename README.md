@@ -2,7 +2,7 @@
 
 # Screenshots
 
-[Login /Register page] (src/Ss/Screenshot (170).png?raw=true )
+![Login /Register page](src/Ss/Screenshot (170).png?raw=true )
 
 # Getting Started with Create React App
 
