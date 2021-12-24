@@ -1,8 +1,6 @@
-# The backend of this application is uploaded at  [Github] (https://github.com/arshdeep76277/Guide)
+# The backend of this application is uploaded at  [Github](https://github.com/arshdeep76277/Guide)
 
-# Screenshots
-
-![Login /Register page](src/Ss/Screenshot (170).png?raw=true )
+# [Screenshots](https://github.com/arshdeep76277/Guide/src/Ss)
 
 # Getting Started with Create React App
 
