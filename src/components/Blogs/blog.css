@@ -1,0 +1,19 @@
+.blogs--container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.blog{
+   background-color: rgb(219, 219, 219,0.5);
+   color: black;
+   font-size: 1.5rem;
+   font-weight:600;
+   padding: 1rem;
+   margin:0.5rem 0;
+   border-radius: 0.5rem;
+}

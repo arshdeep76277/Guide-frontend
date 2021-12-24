@@ -1,0 +1,22 @@
+.main--container{
+    width: 100%;
+    height: 100%;
+}
+.form--container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form--container > *{
+    padding:0.2rem 1rem ;
+    margin: 2rem 0;
+}
+.addnew--description{
+    border: 1px solid #ccc;
+}
+.addnew--title{
+   width: 80%;
+}
